@@ -1,0 +1,9 @@
+Read 2559 items from MXPOST/port/word.voc
+Read 64 items from MXPOST/port/tag.voc
+Read 10014 items from MXPOST/port/tagfeatures.contexts
+Read 10014 contexts, 19231 numFeatures from MXPOST/port/tagfeatures.fmap
+Read model MXPOST/port/model : numPredictions=64, numParams=19231
+Read tagdict from MXPOST/port/tagdict
+*This is MXPOST (Version 1.0)*
+*Copyright (c) 1997 Adwait Ratnaparkhi*
+Sentence: 0 Length: 72722 Elapsed Time: 16.716 seconds.
